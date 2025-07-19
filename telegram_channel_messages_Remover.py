@@ -1,9 +1,9 @@
 from telethon import TelegramClient
 import asyncio
 
-api_id = 13741389  # Replace with your API ID
-api_hash = '8e3fead2e8bca9159cdeb004f420ab06'  # Replace with your API Hash
-phone = '+2348121874059'  # Replace with your phone number including country code
+api_id = XXXXXXXX  # Replace with your API ID
+api_hash = 'XXXXXXXXXXXXXXXXXXXXX'  # Replace with your API Hash
+phone = '+XXXXXXXXXXX'  # Replace with your phone number including country code
 
 client = TelegramClient('session', api_id, api_hash)
 
